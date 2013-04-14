@@ -11,7 +11,7 @@
 *.lnp
 
 # Libraries
-*.lib
+#*.lib
 *.a
 
 # Shared objects (inc. Windows DLLs)

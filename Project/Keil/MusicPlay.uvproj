@@ -346,7 +346,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\Source\LM3S_Lib\inc;..\..\Source\HAL\Oled\Head;..\..\Source\HAL\IO\Head;..\..\Source\App\Head</IncludePath>
+              <IncludePath>..\..\Source\HAL\Oled\Head;..\..\Source\HAL\IO\Head;..\..\Source\App\Head;..\..\Source\LM3S_Lib\inc;..\..\Source\HAL\Key\Head</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -390,11 +390,6 @@
               <FileName>Main.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\Source\App\Src\Main.c</FilePath>
-            </File>
-            <File>
-              <FileName>Music.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\Source\App\Src\Music.c</FilePath>
             </File>
           </Files>
         </Group>
