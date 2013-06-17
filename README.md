@@ -1,10 +1,10 @@
-MusicPlay
-=========================
+#MusicPlay
+
 
 ###Play Music using the Buzzer of the board.
-###使用开发板上自带的蜂鸣器来实现播放音乐。
+###使锟矫匡拷锟斤拷锟斤拷锟斤拷锟皆达拷锟侥凤拷锟斤拷锟斤拷锟斤拷实锟街诧拷锟斤拷锟斤拷锟街★拷
 
 ###More Details you can refer to:
-###具体细节可以参考本人的这篇文章：
-[TI EK-LM3S8962开发板使用蜂鸣器播放音乐《梁祝》的实现](http://blog.csdn.net/tcpipstack/article/details/8104111)<br />
+###锟斤拷锟斤拷细锟节匡拷锟皆参匡拷锟斤拷锟剿碉拷锟斤拷篇锟斤拷锟铰ｏ拷
+[TI EK-LM3S8962锟斤拷锟斤拷锟斤拷使锟矫凤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟街★拷锟斤拷祝锟斤拷锟斤拷实锟斤拷](http://blog.csdn.net/tcpipstack/article/details/8104111)<br />
 
